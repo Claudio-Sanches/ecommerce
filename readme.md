@@ -145,3 +145,5 @@ The script can be executed on a MySQL server to create the entire database struc
 ---
 
 > by CBS built in VScode with the help of Copilot
+
+---
