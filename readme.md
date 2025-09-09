@@ -69,7 +69,7 @@ O script pode ser executado em um servidor MySQL para criar toda a estrutura do 
 
 ---
 
-Desenvolvido para fins de estudo e demonstração de modelagem de banco de dados
+> by CBS construido no VScode com auxílio do Copilot
 
 ---
 
@@ -144,4 +144,4 @@ The script can be executed on a MySQL server to create the entire database struc
 
 ---
 
-Developed for study and demonstration purposes of relational database modeling
+> by CBS built in VScode with the help of Copilot
